@@ -2,9 +2,9 @@
     <img src="https://mybinder.org/badge_logo.svg" alt="Launch Binder" style="width: 200px; height: auto;">
 </a>
 
-# The CSAEA Sandbox
+# The CSAEA Python Sandbox
 
-Welcome to the CSAEA Sandbox, where you can use JupyterLab and Binder to code along in class or practice ephemeral (temporary) coding. Note that Binder will **not** save your work! This is by design. Think of it as a whiteboard or experimental lab. You can create, read, update, and delete files any way you want, with no consequence! Experiment, play, and break things. 
+Welcome to the CSAEA Python Sandbox, where you can use JupyterLab and Binder to code along in class or practice ephemeral (temporary) coding. Note that Binder will **not** save your work! This is by design. Think of it as a whiteboard or experimental lab. You can create, read, update, and delete files any way you want, with no consequence! Experiment, play, and break things. 
 
 Once you launch the JupyterLab Binder, it might take a while to get going — just let it do its thing.
 
